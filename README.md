@@ -1,2 +1,2 @@
-# React-Starter-Proyect
+# React-Starter-Project
 React Starter by Wes Bos
